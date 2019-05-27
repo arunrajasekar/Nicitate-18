@@ -5,9 +5,7 @@ The website I designed for Nictitate '18 - technical symposium for the year 2017
  ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
  
  
-  ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
- 
 
 
 ![Nictitate](https://user-images.githubusercontent.com/50910834/58417851-bcf97380-80a3-11e9-838b-bd1fa5673c09.png)
