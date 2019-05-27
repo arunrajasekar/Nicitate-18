@@ -12,6 +12,7 @@ The website I designed for _Nictitate '18_ - technical symposium for the year 20
 
 ![Nictitate](https://user-images.githubusercontent.com/50910834/58417851-bcf97380-80a3-11e9-838b-bd1fa5673c09.png)
 ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
+
 _About:_
 
 
@@ -32,7 +33,6 @@ _Workshop:_
 
  ![Workshop](https://user-images.githubusercontent.com/50910834/58417880-d3073400-80a3-11e9-8f6e-4f123ba62e9e.png)  
   ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
-
  
  _Events:_
  
@@ -71,7 +71,6 @@ _Workshop:_
  ![Details](https://user-images.githubusercontent.com/50910834/58417899-db5f6f00-80a3-11e9-830b-084922585232.png)
    ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
- 
  _Contact:_
  
  
