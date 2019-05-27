@@ -13,6 +13,8 @@ The website I designed for _Nictitate '18_ - technical symposium for the year 20
 ![Nictitate](https://user-images.githubusercontent.com/50910834/58417851-bcf97380-80a3-11e9-838b-bd1fa5673c09.png)
 ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 _About:_
+
+
  ![About](https://user-images.githubusercontent.com/50910834/58417862-c7b40880-80a3-11e9-9b88-dfd567ab846d.png)
  ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
@@ -26,11 +28,15 @@ _About:_
  ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
 _Workshop:_
+
+
  ![Workshop](https://user-images.githubusercontent.com/50910834/58417880-d3073400-80a3-11e9-8f6e-4f123ba62e9e.png)  
   ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
  
  _Events:_
+ 
+ 
  ![Events](https://user-images.githubusercontent.com/50910834/58417883-d5698e00-80a3-11e9-84cd-06524559d384.png)
    ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
@@ -55,6 +61,8 @@ _Workshop:_
  ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
  _Details:_
+ 
+ 
   ![Details](https://user-images.githubusercontent.com/50910834/58417894-da2e4200-80a3-11e9-93df-7528263a0768.png)
    ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
@@ -65,6 +73,8 @@ _Workshop:_
 
  
  _Contact:_
+ 
+ 
  ![Contact](https://user-images.githubusercontent.com/50910834/58417903-dd293280-80a3-11e9-9472-2960a98efe77.png)
    ![blank](https://user-images.githubusercontent.com/50910834/58419906-727af580-80a9-11e9-8057-6cd439435fbb.png)
 
